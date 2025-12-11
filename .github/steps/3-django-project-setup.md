@@ -93,7 +93,7 @@ Copy/paste the following prompt in the GitHub Copilot Chat and select the "Agent
 > ```prompt
 > /update-octofit-tracker-app
 > ```
->
+> 
 
 > [!IMPORTANT]
 > - Don't start the Python Django app in the way that GitHub Copilot agent mode suggests hit **cancel** when you see this image.
